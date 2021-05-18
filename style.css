@@ -64,8 +64,9 @@ p {
   border-radius: 50px;
   font-size: 0.8rem;
 }
-a .register :hover {
+.register:hover {
   background-color: var(--Magenta);
+  color: aliceblue;
 }
 .socials {
   width: 2.5rem;
