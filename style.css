@@ -46,7 +46,7 @@ a,
 }
 .heading {
   width: 20.75rem;
-  padding: 7.5rem 1rem 0 2rem;
+  padding: 7.5rem 0 0 2rem;
   font-family: var(--open-sans);
 }
 h1 {
