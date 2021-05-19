@@ -109,6 +109,8 @@ ul {
     padding-top: 3rem;
     align-self: center;
   }
+  p {
+    color: red;
 
   .mockup {
     width: 80%;
