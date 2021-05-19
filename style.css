@@ -98,6 +98,7 @@ ul {
 @media screen and (max-width: 40rem) {
   .grid-container {
     width: 90%;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
