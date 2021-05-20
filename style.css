@@ -109,7 +109,7 @@ ul {
      text-align: center;
     }
   h1, p {
-    margin: auto;
+    padding: auto;
   }
  
   .mockup {
