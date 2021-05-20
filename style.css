@@ -111,7 +111,7 @@ ul {
      text-align: center;
     }
   h1, p {
-    padding: auto;
+    aline-self: center;
   }
  
   .mockup {
