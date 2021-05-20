@@ -105,20 +105,15 @@ ul {
     margin-bottom: auto;
   }
   .heading {
-   
-   
-  
     padding-top: 3rem;
     align-self: center;
-    
-    
   }
   h1{
     padding: 0 3rem;
   }
   p {
     padding: 0 3rem;
-
+  }
   .mockup {
     width: 80%;
     display: block;
