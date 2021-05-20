@@ -109,14 +109,12 @@ ul {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;*/
-    justify-content: center;
-    justify-items: center;
-    align-self: center;
+
   }
   .heading {
     text-align: center;
     padding-top: 3rem;
-    align-self: center;
+  
   }
   p {
     padding-right: 0;
