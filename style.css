@@ -111,6 +111,7 @@ ul {
     margin-bottom: auto;*/
     justify-content: center;
     justify-items: center;
+    align-self: center;
   }
   h1, p {
     text-align: center;
