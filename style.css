@@ -112,6 +112,7 @@ ul {
     }
   h1, p {
     aline-self: center;
+    padding: 0 2rem 0;
   }
  
   .mockup {
