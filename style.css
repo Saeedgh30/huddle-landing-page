@@ -22,7 +22,6 @@ body {
 }
 .grid-container {
   width: 60%;
-
   font-size: 100%;
   background-image: url(/images/bg-desktop.svg);
   background-size: cover;
@@ -106,7 +105,8 @@ ul {
   
   }
   .heading {
-   
+   width: 50%;
+    height: auto;
     padding-top: 3rem;
      text-align: center;
     }
