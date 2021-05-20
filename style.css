@@ -96,7 +96,7 @@ ul {
   display: inline-table;
   justify-content: space-between;
 }*/
-@media screen and (max-width: 50rem) {
+@media (max-width: 50rem) {
   .grid-container {
     width: 100%;
     margin-left: auto;
@@ -106,9 +106,12 @@ ul {
   }
   .heading {
     padding: 0;
+    margin; 0;
     text-align: center;
     padding-top: 3rem;
     align-self: center;
+    overflow: auto;
+    
   }
 
   .mockup {
