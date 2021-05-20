@@ -109,6 +109,8 @@ ul {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;*/
+    justify-content: center;
+    justify-items: center;
   }
   h1, p {
     text-align: center;
