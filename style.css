@@ -116,6 +116,9 @@ ul {
     aline-self: center;
     padding: 0 1rem 0;
   }
+  h1 {
+    width: 5rem;
+    
   .register {
     padding: 0.4rem 4rem;
   }
