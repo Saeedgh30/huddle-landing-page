@@ -22,7 +22,7 @@ body {
   box-sizing: border-box;
 }
 .grid-container {
-  width: 80%;
+  width: 60%;
   font-size: 100%;
   background-image: url(/images/bg-desktop.svg);
   background-size: cover;
