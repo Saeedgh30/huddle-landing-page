@@ -105,7 +105,7 @@ ul {
     margin-bottom: auto;
   }
   .heading {
-    padding: 0;
+   
    
   
     padding-top: 3rem;
@@ -113,6 +113,11 @@ ul {
     
     
   }
+  h1{
+    padding: 0 3rem;
+  }
+  p {
+    padding: 0 3rem;
 
   .mockup {
     width: 80%;
