@@ -106,16 +106,17 @@ ul {
   }
   .heading {
     padding-top: 3rem;
+     text-align: center;
     
    
   }
   h1{
     padding: 0 3rem;
-    text-align: center;
+   
   }
   p {
     padding: 0 3rem;
-    text-align: center;
+  
   }
   .mockup {
     width: 80%;
