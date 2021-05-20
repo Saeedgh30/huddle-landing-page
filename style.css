@@ -118,6 +118,8 @@ ul {
     padding-top: 3rem;
     align-self: center;
   }
+  p {
+    padding-right: 0;
 
   .mockup {
     width: 80%;
