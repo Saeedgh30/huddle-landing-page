@@ -96,29 +96,20 @@ ul {
   display: inline-table;
   justify-content: space-between;
 }*/
-
 @media screen and (max-width: 50rem) {
-  body {
-    padding: 0;
-    margin: 0;
-  }
   .grid-container {
     width: 100%;
-    margin: auto;
-    /*margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-    margin-bottom: auto;*/
-
+    margin-bottom: auto;
   }
   .heading {
+    padding: 0;
     text-align: center;
     padding-top: 3rem;
-    max-width: 40rem;
-  
+    align-self: center;
   }
-  p {
-    padding-right: 0;
 
   .mockup {
     width: 80%;
