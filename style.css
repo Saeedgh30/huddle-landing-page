@@ -103,10 +103,10 @@ ul {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-     position: relative;
+  
   }
   .heading {
-    position: absolute;
+   
     padding-top: 3rem;
      text-align: center;
     }
@@ -115,7 +115,7 @@ ul {
   }
  
   .mockup {
-    position: absolute;
+  
     width: 80%;
     display: block;
     margin-left: auto;
@@ -124,8 +124,5 @@ ul {
   .grid-container {
     display: flex;
     flex-direction: column;
-  }
-  grid-1, grid-2, grid-3 {
-    position: absolute;
   }
 }
